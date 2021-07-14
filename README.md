@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-https://raw.githubusercontent.com/cn2886/clarence_ng/main/images/LiverpoolFC.jpg
+![alt text] (https://raw.githubusercontent.com/cn2886/clarence_ng/main/images/LiverpoolFC.jpg)
 
 <!-- Add your details -->
 
