@@ -58,7 +58,7 @@ Masters - MBIT
 [Click here to view codebase]
 
 #### Regression based projects
-![alt text]
+![alt text](https://)
 
 
 [Click here to view codebase]
