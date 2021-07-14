@@ -3,7 +3,7 @@
 
 <!-- Add your details -->
 ✉️: email_id@xxxxx.com 
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
+&nbsp;&nbsp; 📲 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website]
 <!-- CONTACT Section Ends -->
