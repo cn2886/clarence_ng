@@ -16,7 +16,7 @@
 
 <!-- Add your details -->
 
-I am Clarence Ng.
+IT professional with more than 15 years of IT managerial experience in financial institutions and have good understanding of IT risk management, governance and statutory compliance. Experience in managing full project lifecycle from business requirement to final implementation of IT solution and infrastructure, business continuity management and user training. Also experience in office lease and relocation and facilities management.
 
 
 <!-- Add link to the sections -->
