@@ -2,7 +2,7 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: email_id@xxxxx.com 
+✉️: clarencenghm@gmail.com 
 &nbsp;&nbsp; 📲 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website]
